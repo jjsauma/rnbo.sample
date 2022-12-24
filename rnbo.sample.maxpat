@@ -1227,7 +1227,17 @@
 						"bgfillcolor_color2" : [ 0.263682, 0.004541, 0.038797, 1.0 ],
 						"bgfillcolor_angle" : 270.0,
 						"bgfillcolor_proportion" : 0.39,
-						"bgfillcolor_autogradient" : 0.0
+						"bgfillcolor_autogradient" : 0.0,
+						"export_config" : 						{
+							"web-export" : 							{
+								"json-web-export" : 								{
+									"copy_dependencies" : 1
+								}
+
+							}
+
+						}
+
 					}
 ,
 					"patching_rect" : [ 190.0, 133.0, 40.0, 22.0 ],
